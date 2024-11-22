@@ -1,0 +1,7 @@
+llm:
+  model_name: "llama3.1-7pb"
+  token_limit: 4096
+  hosting_platform: "Databricks"
+  model_serving: "Databricks Model Serving"
+  endpoint_url: "https://your-databricks-instance/api/2.0/mlflow/model-versions/get"
+  api_key: "your_databricks_api_key"

@@ -1,0 +1,13 @@
+agent:
+  recursion_limit: 3
+  timeout: 30
+  logging: true
+
+tools:
+  database_schema_tool: true
+  query_planner_tool: true
+  data_profiler_tool: true
+
+security:
+  data_access: restricted
+  input_sanitization: true

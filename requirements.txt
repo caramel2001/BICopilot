@@ -1,0 +1,5 @@
+streamlit
+ibm_db
+chromadb
+flask
+autogen

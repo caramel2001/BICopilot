@@ -1,0 +1,8 @@
+database:
+  type: "IBM DB2"
+  host: "your_host_name"
+  port: "your_port_number"
+  database_name: "your_database_name"
+  user: "your_user_id"
+  password: "your_password"
+  schema: "your_schema_name"
